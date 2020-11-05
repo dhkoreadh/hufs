@@ -1,4 +1,10 @@
 # hufs
+
+
+학번: 000000000 
+
+이름: 김바로
+
 한국외대 강의 시범용
 
 글쓰기 참조: https://gist.github.com/ihoneymon/652be052a0727ad59601
